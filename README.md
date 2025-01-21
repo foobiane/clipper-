@@ -1,5 +1,6 @@
 ## clipper~: A simple mono clipper in PureData 
 This project is still a work-in-progress. Expect bugs, malfunctions, and generally bad code.
+
 *Created by Ian Doherty, January 2025*
 
 A simple digital distortion module in PureData.
